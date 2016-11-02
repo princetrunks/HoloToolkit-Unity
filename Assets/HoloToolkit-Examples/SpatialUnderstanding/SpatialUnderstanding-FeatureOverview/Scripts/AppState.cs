@@ -109,9 +109,9 @@ public class AppState : Singleton<AppState>
                         // The stats tell us if we could potentially finish
                         if (DoesScanMeetMinBarForCompletion)
                         {
-                            return "When ready, air tap to finalize your playspace";
+                            return "When ready, air tap to finalize your store space";
                         }
-                        return "Walk around and scan in your playspace";
+                        return "Walk around to scan your store space";
                     case SpatialUnderstanding.ScanStates.Finishing:
                         return "Finalizing scan (please wait)";
                     case SpatialUnderstanding.ScanStates.Done:

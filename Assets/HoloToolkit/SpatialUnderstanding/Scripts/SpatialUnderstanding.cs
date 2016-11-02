@@ -248,8 +248,12 @@ namespace HoloToolkit.Unity
                 // Final mesh import
                 StartCoroutine(UnderstandingCustomMesh.Import_UnderstandingMesh());
 
+                //Make the mesh invisible after being done
+                // UnderstandingCustomMesh.gameObject.SetActive(false);
+
                 // Mark it
                 ScanState = ScanStates.Done;
+
             }
         }
     }

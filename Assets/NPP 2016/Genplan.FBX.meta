@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 586196a30b573814b85a66a633750192
+timeCreated: 1463417082
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Buildings
+    100002: bushes
+    100004: Cars
+    100006: Cars2
+    100008: Cars3
+    100010: EblokBorders
+    100012: Energoblock Ground
+    100014: Energoblok1
+    100016: Energoblok2
+    100018: //RootNode
+    100020: Genplan Borders
+    100022: Ground
+    100024: Trees
+    100026: Tube1
+    100028: Tube2
+    100030: Water
+    400000: Buildings
+    400002: bushes
+    400004: Cars
+    400006: Cars2
+    400008: Cars3
+    400010: EblokBorders
+    400012: Energoblock Ground
+    400014: Energoblok1
+    400016: Energoblok2
+    400018: //RootNode
+    400020: Genplan Borders
+    400022: Ground
+    400024: Trees
+    400026: Tube1
+    400028: Tube2
+    400030: Water
+    2300000: Buildings
+    2300002: bushes
+    2300004: Cars
+    2300006: Cars2
+    2300008: Cars3
+    2300010: EblokBorders
+    2300012: Energoblock Ground
+    2300014: Energoblok1
+    2300016: Energoblok2
+    2300018: Genplan Borders
+    2300020: Ground
+    2300022: Trees
+    2300024: Tube1
+    2300026: Tube2
+    2300028: Water
+    3300000: Buildings
+    3300002: bushes
+    3300004: Cars
+    3300006: Cars2
+    3300008: Cars3
+    3300010: EblokBorders
+    3300012: Energoblock Ground
+    3300014: Energoblok1
+    3300016: Energoblok2
+    3300018: Genplan Borders
+    3300020: Ground
+    3300022: Trees
+    3300024: Tube1
+    3300026: Tube2
+    3300028: Water
+    4300000: Water
+    4300002: Ground
+    4300004: Buildings
+    4300006: Tube1
+    4300008: Tube2
+    4300010: EblokBorders
+    4300012: Trees
+    4300014: Energoblok2
+    4300016: Energoblok1
+    4300018: Energoblock Ground
+    4300020: bushes
+    4300022: Genplan Borders
+    4300024: Cars
+    4300026: Cars3
+    4300028: Cars2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
